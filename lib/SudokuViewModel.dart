@@ -8,7 +8,7 @@ import 'MyDialog.dart';
 abstract class SudokuViewModel extends State<SudokuScreen>{
 
   List<List<int>> sudokuBoard = [
-    [6, 0, 6, 0, 0, 0, 4, 1, 0],
+    [0, 0, 6, 0, 0, 0, 4, 1, 0],
     [0, 0, 1, 0, 7, 0, 0, 2, 9],
     [0, 9, 2, 3, 0, 1, 0, 0, 0],
     [6, 0, 5, 0, 3, 7, 0, 0, 2],
