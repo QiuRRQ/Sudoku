@@ -1,6 +1,16 @@
 # sudoku
 
-A new Flutter application.
+aplikasi sudoku yang dibuat menggunakan flutter
+
+# berikut adalah screen shot dari game sudoku :
+
+![Image of Sudoku](https://github.com/QiuRRQ/Sudoku/blob/master/image/sudoku1.png)
+
+![Image of Sudoku](https://github.com/QiuRRQ/Sudoku/blob/master/image/sudoku2.png)
+
+![Image of Sudoku](https://github.com/QiuRRQ/Sudoku/blob/master/image/sudoku3.png)
+
+
 
 ## Getting Started
 
